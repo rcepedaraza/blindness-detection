@@ -15,3 +15,5 @@ Each image has been rated for a clinician on a scale of __0__ to __4__:
 |   4   | Profiliferative DR |
 
 Note: Image may contain artifacts, be out of focus, underexposed, or overexposed.
+
+Images have not been uploaded to github, only labels.
