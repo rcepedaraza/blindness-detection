@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/raw/train_images
+data/raw/test_images
+data/external/aptos2019-blindness-detection.zip
